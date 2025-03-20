@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/human_geo_drafting/static/css/main.2d80173a.css",
-    "main.js": "/human_geo_drafting/static/js/main.185fa165.js",
+    "main.js": "/human_geo_drafting/static/js/main.f9de7422.js",
     "index.html": "/human_geo_drafting/index.html",
     "main.2d80173a.css.map": "/human_geo_drafting/static/css/main.2d80173a.css.map",
-    "main.185fa165.js.map": "/human_geo_drafting/static/js/main.185fa165.js.map"
+    "main.f9de7422.js.map": "/human_geo_drafting/static/js/main.f9de7422.js.map"
   },
   "entrypoints": [
     "static/css/main.2d80173a.css",
-    "static/js/main.185fa165.js"
+    "static/js/main.f9de7422.js"
   ]
 }
