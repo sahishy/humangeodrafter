@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/humangeodrafter/static/css/main.81b6a405.css",
-    "main.js": "/humangeodrafter/static/js/main.d17311b8.js",
+    "main.js": "/humangeodrafter/static/js/main.e570567f.js",
     "index.html": "/humangeodrafter/index.html",
     "main.81b6a405.css.map": "/humangeodrafter/static/css/main.81b6a405.css.map",
-    "main.d17311b8.js.map": "/humangeodrafter/static/js/main.d17311b8.js.map"
+    "main.e570567f.js.map": "/humangeodrafter/static/js/main.e570567f.js.map"
   },
   "entrypoints": [
     "static/css/main.81b6a405.css",
-    "static/js/main.d17311b8.js"
+    "static/js/main.e570567f.js"
   ]
 }
